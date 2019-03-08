@@ -1,0 +1,31 @@
+html,
+body,
+div,
+header,
+section,
+footer,
+ul,
+li,
+a,
+span,
+i,
+input,
+img {
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  height: 100%;
+}
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+input,
+img {
+  border: none;
+  vertical-align: middle;
+}
